@@ -3,7 +3,11 @@ laravel4-UrlShortener
 
 a Url Shortener app build on top of the laravel 4 framework. 
 
+##Requirements
 
+    PHP >= 5.3.7 (Laravel's 5.3.7 requirement)
+
+	
 ##How to install
 
 ### Step 1: Get the code
